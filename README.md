@@ -6,14 +6,14 @@ I am a passionate 19-year-old student dedicated to mastering **Cybersecurity**. 
 ---
 
 ### 🚀 What I'm Focused on Right Now:
-* **Learn the certification curriculum OSCP
+* **Self-studying OSCP methodology and advanced penetration testing techniques.
 
 ### 📁 Featured Project:
 * **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core):** My main hub for security tools and research.
 
 ### 🛠️ My Tech Stack:
-- **Languages:** Python (Advanced Learner), Bash.
-- Cyber Security researcher ⏳
+- **Languages:** Python . 
+- Security Research & Lab
 - Linux
 
 ### 📱 Let's Connect:
