@@ -1,25 +1,26 @@
+# 👋 Hi, I'm Mohamed Atr!
+### 🛡️ Cybersecurity & AI Solutions Architect | Algeria
 
-
-## Recent Projects
-
-### ReportMind (AI Research Agent)
-An innovative AI research agent designed to simplify data analysis and enhance research efficiency.
-
-### ai-payments-bot
-A versatile payment automation bot utilizing AI for seamless financial transactions.
-
-### langchain (Biography Analyzer)
-A cutting-edge biography analyzer that uses advanced AI techniques to draw insights from personal histories.
-
-### Cyber-Core
-A comprehensive cybersecurity framework aimed at protecting against various cyber threats.
-
-### Other Security Projects
-Diverse projects focusing on enhancing security measures and protocols in both digital and physical spaces.
-
-## Expertise
-With a strong background in artificial intelligence, large language models, and cybersecurity, I aim to drive innovation and security in technology.
+I'm passionate about building the next generation of security and AI solutions — where automation, intelligence, and digital safety converge. My core focus is developing innovative tools that empower organizations to secure their digital assets and harness the power of artificial intelligence for smarter, safer, and more efficient operations.
 
 ---
 
-For more information on each project, feel free to reach out or check the project repositories!
+## 🚀 Recent Projects
+- **[ReportMind](https://github.com/mohamedatr1/ReportMind):** Autonomous AI research agent powered by state-of-the-art LLMs, delivering structured, evidence-based insights in seconds.
+- **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core):** Central hub for advanced security tools, automation scripts, and red teaming research.
+- **[ai-payments-bot](https://github.com/mohamedatr1/ai-payments-bot):** AI-powered payment assistant that transforms natural language inputs into seamless financial operations.
+- **[langchain](https://github.com/mohamedatr1/langchain):** AI-driven biography analyzer leveraging cutting-edge NLP frameworks and LangChain.
+
+---
+
+## 🛠️ Technical Skills
+- Programming: Python
+- Advanced Security Research, Penetration Testing, and Red Teaming
+- AI/ML Development (AI Agents, LLMs, NLP)
+- Linux Systems & Automation
+- Network Security & Automation Tools
+
+---
+
+## 📫 Connect with me
+[Instagram](https://www.instagram.com/bc01hr/) | [Facebook](https://web.facebook.com/mohamed.atr.547446) | [X (Twitter)](https://x.com/CrisXrrr)
