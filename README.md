@@ -1,24 +1,25 @@
-# 👋 Hi, I'm Mohamed Atr! 🇩🇿
-### 🛡️ Cybersecurity Researcher & Python Developer | 19 Years Old
+# Professional README
 
-I am a passionate 20-year-old student dedicated to mastering **Cybersecurity**. I build specialized tools using **Python** to automate security tasks and explore network vulnerabilities.
+## Recent Projects
+
+### ReportMind (AI Research Agent)
+An innovative AI research agent designed to simplify data analysis and enhance research efficiency.
+
+### ai-payments-bot
+A versatile payment automation bot utilizing AI for seamless financial transactions.
+
+### langchain (Biography Analyzer)
+A cutting-edge biography analyzer that uses advanced AI techniques to draw insights from personal histories.
+
+### Cyber-Core
+A comprehensive cybersecurity framework aimed at protecting against various cyber threats.
+
+### Other Security Projects
+Diverse projects focusing on enhancing security measures and protocols in both digital and physical spaces.
+
+## Expertise
+With a strong background in artificial intelligence, large language models, and cybersecurity, I aim to drive innovation and security in technology.
 
 ---
 
-### 🚀 What I'm Focused on Right Now:
-* **Self-studying OSCP methodology and advanced penetration testing techniques.
-
-### 📁 Featured Project:
-* **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core):** My main hub for security tools and research.
-
-### 🛠️ My Tech Stack:
-- **Languages:** Python . 
-- Security Research & Lab
-- Linux
-
-### 📱 Let's Connect:
-[Instagram](https://www.instagram.com/bc01hr/) | [Facebook](https://web.facebook.com/mohamed.atr.547446) | [X (Twitter)](https://x.com/CrisXrrr)
-
----
-
-
+For more information on each project, feel free to reach out or check the project repositories!
