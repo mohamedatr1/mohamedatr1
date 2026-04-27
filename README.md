@@ -69,41 +69,16 @@
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedatr1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatr1&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedatr1&theme=tokyonight" alt="mohamedatr1" />
-</div>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedatr1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/mohamedatr1/mohamedatr1/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
+
 ---
+
 ## 🚀 Recent Projects
 - **[ReportMind](https://github.com/mohamedatr1/ReportMind):** Autonomous AI research agent powered by state-of-the-art LLMs, delivering structured, evidence-based insights in seconds.
 - **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core):** Central hub for advanced security tools, automation scripts, and red teaming research.
