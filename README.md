@@ -26,7 +26,7 @@
 🔗 &nbsp;Expert in **LangGraph**, **LangChain**, and **LLMs** for self-correcting workflows.<br>
 🦀 &nbsp;Building kernel-level security tools with **Rust** and **eBPF**.<br>
 ⚡ &nbsp;Bridging **Advanced AI Reasoning** with **Real-World System Execution**.<br>
-🌍 &nbsp;Based in **Algeria** — Working Remotely & Freelancing.<br>
+🌍 &nbsp;Based in **Algeria** .<br>
 
 <br><br>
 
