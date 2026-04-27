@@ -1,5 +1,12 @@
 <img width="895" height="505" alt="download" src="https://github.com/user-attachments/assets/fc0fd885-0190-4653-8344-d9f612636da4" />
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedatr1&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/mohamedatr1?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/mohamedatr1?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/forks/mohamedatr1?style=social" alt="GitHub Forks" />
+</div>
+
 ---
 ## 🚀 Recent Projects
 - **[ReportMind](https://github.com/mohamedatr1/ReportMind):** Autonomous AI research agent powered by state-of-the-art LLMs, delivering structured, evidence-based insights in seconds.
