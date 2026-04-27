@@ -1,39 +1,43 @@
-<img width="895" height="505" alt="download" src="https://github.com/user-attachments/assets/fc0fd885-0190-4653-8344-d9f612636da4" />
-
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20ATR&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%2FML%20%7C%20Cybersecurity&descAlignY=60&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a1a,100:0d1117&height=220&section=header&text=Attari%20Mohamed%20Elbachir&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20OSCP%20Candidate&descAlignY=60&descColor=58a6ff&stroke=00ff41&strokeWidth=1" width="100%"/>
 </div>
 
 <!-- Stats Bar -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedatr1&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedatr1&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Stars](https://img.shields.io/github/stars/mohamedatr1?style=for-the-badge&color=f78166&label=STARS&logo=github)
 ![GitHub Followers](https://img.shields.io/github/followers/mohamedatr1?style=for-the-badge&color=3fb950&label=FOLLOWERS&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/mohamedatr1/ReportMind?style=for-the-badge&color=58a6ff&label=FORKS&logo=github)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Hacking" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🐍 About Me
+### 🧠 About Me
 
-🔭 &nbsp;I am currently working on and developing my **Python** skills.<br>
-🤖 &nbsp;Passionate about **AI/ML** and building intelligent systems.<br>
-🛡️ &nbsp;Interested in **Cybersecurity** and ethical hacking.<br>
-⚡ &nbsp;Interest in **DS/AI/ML, Automation, Development/Engineering**, etc.<br>
-🌱 &nbsp;Always learning and exploring new technologies.<br>
+🤖 &nbsp;**AI Engineer** specializing in **Autonomous Agents** & **Agentic AI** systems.<br>
+🛡️ &nbsp;**Security Researcher** — OSCP Candidate focused on **Offensive Security**.<br>
+🔗 &nbsp;Expert in **LangGraph**, **LangChain**, and **LLMs** for self-correcting workflows.<br>
+🦀 &nbsp;Building kernel-level security tools with **Rust** and **eBPF**.<br>
+⚡ &nbsp;Bridging **Advanced AI Reasoning** with **Real-World System Execution**.<br>
+🌍 &nbsp;Based in **Algeria** — Working Remotely & Freelancing.<br>
 
-<br>
+<br><br>
 
 ### 📫 Drop me a line:
 
-<a href="mailto:mohamedatr1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mohamedatr1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/mohamedatr1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/mohamedatr1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p align="left">
+<a href="mailto:crisxr40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-atr-4239563a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/bc01hr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/CrisXrrr"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://web.facebook.com/mohamed.atr.547446"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://github.com/mohamedatr1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -41,60 +45,99 @@
 
 <div align="center">
 
-<!-- Languages -->
+<!-- Core Language -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-<!-- AI/ML -->
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<!-- AI / Agentic -->
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<!-- Cybersecurity -->
+<!-- Offensive Security Tools -->
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrackng&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logo=linux&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-007ACC?style=for-the-badge&logo=go&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-FF0000?style=for-the-badge&logo=linux&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=linux&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 
-<!-- Tools -->
+<!-- OS & Systems -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![eBPF](https://img.shields.io/badge/eBPF-F5A800?style=for-the-badge&logo=linux&logoColor=black)
+
+<!-- Dev Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<!-- APIs & Backend -->
+![RESTful APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-
 ---
 
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedatr1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatr1&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedatr1&theme=chartreuse-dark&hide_border=true" alt="mohamedatr1" />
 </div>
 
 ---
 
-## 🚀 Recent Projects
-- **[ReportMind](https://github.com/mohamedatr1/ReportMind):** Autonomous AI research agent powered by state-of-the-art LLMs, delivering structured, evidence-based insights in seconds.
-- **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core):** Central hub for advanced security tools, automation scripts, and red teaming research.
-- **[ai-payments-bot](https://github.com/mohamedatr1/ai-payments-bot):** AI-powered payment assistant that transforms natural language inputs into seamless financial operations.
-- **[langchain](https://github.com/mohamedatr1/langchain):** AI-driven biography analyzer leveraging cutting-edge NLP frameworks and LangChain.
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedatr1&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
 
 ---
 
-## 🛠️ Technical Skills
-- Programming: Python
-- Advanced Security Research, Penetration Testing, and Red Teaming
-- AI/ML Development (AI Agents, LLMs, NLP)
-- Linux Systems & Automation
-- Network Security & Automation Tools
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🕵️ **[PhantomForge](https://github.com/mohamedatr1)** | Autonomous red team AI platform with DQN-powered attack optimization | `Python` `AI Agents` `RL` |
+| 👻 **[GhostThread EDR](https://github.com/mohamedatr1)** | Kernel-level EDR with Rust + eBPF, <2% CPU overhead | `Rust` `eBPF` `Blockchain` |
+| 🧠 **[ReportMind](https://github.com/mohamedatr1/ReportMind)** | Autonomous AI research agent with LLM-powered insights | `LangChain` `LLMs` `Python` |
+| 💳 **[ai-payments-bot](https://github.com/mohamedatr1/ai-payments-bot)** | NLP-powered payment assistant | `LangGraph` `FastAPI` `Python` |
+| 🔐 **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core)** | Central hub for red teaming tools & automation | `Python` `Bash` `Security` |
+| 📖 **[langchain](https://github.com/mohamedatr1/langchain)** | AI biography analyzer with advanced NLP | `LangChain` `NLP` `Python` |
+
+</div>
 
 ---
 
-## 📫 Connect with me
-[Instagram](https://www.instagram.com/bc01hr/) | [Facebook](https://web.facebook.com/mohamed.atr.547446) | [X (Twitter)](https://x.com/CrisXrrr)
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/mohamedatr1/mohamedatr1/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a1a,100:0d1117&height=120&section=footer&fontColor=00ff41" width="100%"/>
+</div>
