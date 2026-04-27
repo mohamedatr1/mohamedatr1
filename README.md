@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/github/forks/mohamedatr1?style=social" alt="GitHub Forks" />
 </div>
 
+[![X (Twitter)](https://img.shields.io/badge/-@CrisXrrr-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/CrisXrrr)
+[![Facebook](https://img.shields.io/badge/-mohamed.atr.547446-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/mohamed.atr.547446)
+[![Instagram](https://img.shields.io/badge/-@bc01hr-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bc01hr/)
+
 ---
 ## 🚀 Recent Projects
 - **[ReportMind](https://github.com/mohamedatr1/ReportMind):** Autonomous AI research agent powered by state-of-the-art LLMs, delivering structured, evidence-based insights in seconds.
