@@ -1,7 +1,5 @@
 <img width="896" height="504" alt="download" src="https://github.com/user-attachments/assets/fc0fd885-0190-4653-8344-d9f612636da4" />
 
-I'm passionate about building the next generation of security and AI solutions — where automation, intelligence, and digital safety converge. My core focus is developing innovative tools that empower organizations to secure their digital assets and harness the power of artificial intelligence for smarter, safer, and more efficient operations.
-
 ---
 
 ## 🚀 Recent Projects
