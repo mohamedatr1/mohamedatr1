@@ -17,10 +17,7 @@
 
 ---
 
-
 <img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
-
-
 
 ### 🧠 About Me
 
