@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a1a,100:0d1117&height=220&section=header&text=Attari%20Mohamed%20Elbachir&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20OSCP%20Candidate&descAlignY=60&descColor=58a6ff&stroke=00ff41&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:000000&height=220&section=header&text=Attari%20Mohamed%20Elbachir&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Python%20Dev&descAlignY=60&descColor=7b2cbf&stroke=3c096c&strokeWidth=1" width="100%"/>
 </div>
 
 <!-- Stats Bar -->
@@ -59,7 +59,6 @@
 
 <!-- Core Language -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
@@ -82,12 +81,9 @@
 ![Gobuster](https://img.shields.io/badge/Gobuster-007ACC?style=for-the-badge&logo=go&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_The_Ripper-FF0000?style=for-the-badge&logo=linux&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=linux&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 
 <!-- OS & Systems -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![eBPF](https://img.shields.io/badge/eBPF-F5A800?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- Dev Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -117,13 +113,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedatr1&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
 
 ### 🚀 Featured Projects
 
@@ -131,8 +120,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🕵️ **[PhantomForge](https://github.com/mohamedatr1)** | Autonomous red team AI platform with DQN-powered attack optimization | `Python` `AI Agents` `RL` |
-| 👻 **[GhostThread EDR](https://github.com/mohamedatr1)** | Kernel-level EDR with Rust + eBPF, <2% CPU overhead | `Rust` `eBPF` `Blockchain` |
+| 🕵️ **[PhantomForge (Private)](https://github.com/mohamedatr1)** | Autonomous red team AI platform with DQN-powered attack optimization | `Python` `AI Agents` `RL` |
+| 👻 **[GhostThread EDR (Private)](https://github.com/mohamedatr1)** | Kernel-level EDR with Rust + eBPF, <2% CPU overhead | `Rust` `eBPF` `Blockchain` |
 | 🧠 **[ReportMind](https://github.com/mohamedatr1/ReportMind)** | Autonomous AI research agent with LLM-powered insights | `LangChain` `LLMs` `Python` |
 | 💳 **[ai-payments-bot](https://github.com/mohamedatr1/ai-payments-bot)** | NLP-powered payment assistant | `LangGraph` `FastAPI` `Python` |
 | 🔐 **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core)** | Central hub for red teaming tools & automation | `Python` `Bash` `Security` |
@@ -142,13 +131,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/mohamedatr1/mohamedatr1/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a1a,100:0d1117&height=120&section=footer&fontColor=00ff41" width="100%"/>
