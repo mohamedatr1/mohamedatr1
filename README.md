@@ -1,7 +1,7 @@
-<img width="896" height="504" alt="download" src="https://github.com/user-attachments/assets/fc0fd885-0190-4653-8344-d9f612636da4" />
+<img width="500" height="500" alt="download" src="https://github.com/user-attachments/assets/fc0fd885-0190-4653-8344-d9f612636da4" />
 
 ---
-![Views](https://komarev.com/ghpvc/?user=mohamedatr1&color=blue) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedatr1&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatr1&layout=compact&theme=vision-friendly-dark)  ![Followers](https://img.shields.io/github/followers/mohamedatr1?label=Followers&style=social)
+
 ## 🚀 Recent Projects
 - **[ReportMind](https://github.com/mohamedatr1/ReportMind):** Autonomous AI research agent powered by state-of-the-art LLMs, delivering structured, evidence-based insights in seconds.
 - **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core):** Central hub for advanced security tools, automation scripts, and red teaming research.
