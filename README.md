@@ -1,3 +1,5 @@
+<img width="896" height="504" alt="download" src="https://github.com/user-attachments/assets/e13cb02f-e198-467a-86e7-af92e21bfcdd" />
+
 <!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:000000&height=220&section=header&text=Attari%20Mohamed%20Elbachir&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Python%20Dev&descAlignY=60&descColor=7b2cbf&stroke=3c096c&strokeWidth=1" width="100%"/>
@@ -100,19 +102,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedatr1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatr1&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedatr1&theme=chartreuse-dark&hide_border=true" alt="mohamedatr1" />
-</div>
-
----
-
 
 ### 🚀 Featured Projects
 
@@ -130,8 +119,3 @@
 </div>
 
 ---
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a1a,100:0d1117&height=120&section=footer&fontColor=00ff41" width="100%"/>
-</div>
