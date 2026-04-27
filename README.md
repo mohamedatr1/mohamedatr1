@@ -71,9 +71,6 @@
 ![John the Ripper](https://img.shields.io/badge/John_The_Ripper-FF0000?style=for-the-badge&logo=linux&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-<!-- OS & Systems -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 <!-- Dev Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
