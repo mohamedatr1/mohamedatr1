@@ -1,7 +1,15 @@
 <img width="895" height="505" alt="download" src="https://github.com/user-attachments/assets/fc0fd885-0190-4653-8344-d9f612636da4" />
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?user=mohamedatr1&label=PROFILE+VIEWS&style=for-the-badge&color=587CA5" alt="Profile Views" />
 
+  <img src="https://img.shields.io/github/stars/mohamedatr1/aethersec?style=for-the-badge&label=STARS&color=D16E77&logo=github" alt="Stars" />
+
+  <img src="https://img.shields.io/github/followers/mohamedatr1?style=for-the-badge&label=FOLLOWERS&color=587CA5&logo=github" alt="Followers" />
+
+  <img src="https://img.shields.io/github/forks/mohamedatr1/aethersec?style=for-the-badge&label=FORKS&color=D16E77&logo=github" alt="Forks" />
+</p>
+---
 ## 🚀 Recent Projects
 - **[ReportMind](https://github.com/mohamedatr1/ReportMind):** Autonomous AI research agent powered by state-of-the-art LLMs, delivering structured, evidence-based insights in seconds.
 - **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core):** Central hub for advanced security tools, automation scripts, and red teaming research.
