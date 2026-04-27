@@ -92,24 +92,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedatr1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatr1&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedatr1&theme=chartreuse-dark&hide_border=true" alt="mohamedatr1" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedatr1&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
 
 ---
 
@@ -119,22 +101,15 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🕵️ **[PhantomForge](https://github.com/mohamedatr1)** | Autonomous red team AI platform with DQN-powered attack optimization | `Python` `AI Agents` `RL` |
-| 👻 **[GhostThread EDR](https://github.com/mohamedatr1)** | Kernel-level EDR with Rust + eBPF, <2% CPU overhead | `Rust` `eBPF` `Blockchain` |
+| 🕵️ **[PhantomForge (Private)](https://github.com/mohamedatr1)** | Autonomous red team AI platform with DQN-powered attack optimization | `Python` `AI Agents` `RL`  |
+| 👻 **[GhostThread EDR (Private)](https://github.com/mohamedatr1)** | Kernel-level EDR with Rust + eBPF, <2% CPU overhead | `Rust` `eBPF` `Blockchain` |
 | 🧠 **[ReportMind](https://github.com/mohamedatr1/ReportMind)** | Autonomous AI research agent with LLM-powered insights | `LangChain` `LLMs` `Python` |
-| 💳 **[ai-payments-bot](https://github.com/mohamedatr1/ai-payments-bot)** | NLP-powered payment assistant | `LangGraph` `FastAPI` `Python` |
+| 💳 **[ai-payments-bot](https://github.com/mohamedatr1/ai-payments-bot)** | NLP-powered payment assistant | `n8n` |
 | 🔐 **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core)** | Central hub for red teaming tools & automation | `Python` `Bash` `Security` |
-| 📖 **[langchain](https://github.com/mohamedatr1/langchain)** | AI biography analyzer with advanced NLP | `LangChain` `NLP` `Python` |
+| 📖 **[langchain](https://github.com/mohamedatr1/langchain)** | AI biography analyzer with advanced NLP | `LangChain` `Python` |
 
 </div>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/mohamedatr1/mohamedatr1/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
 
 ---
 
