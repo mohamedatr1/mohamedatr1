@@ -30,28 +30,15 @@
 
 <br><br>
 
-### 🧲 Drop me a line:
-
-<div align="left">
-  <a href="mailto:crisxr40@gmail.com" target="_blank">
-    <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Gmail" title="Gmail"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-atr-4239563a7/" target="_blank">
-    <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/bc01hr/" target="_blank">
-    <img width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" title="Instagram"/>
-  </a>&nbsp;
-  <a href="https://x.com/CrisXrrr" target="_blank">
-    <img width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" alt="X (Twitter)" title="X (Twitter)"/>
-  </a>&nbsp;
-  <a href="https://web.facebook.com/mohamed.atr.547446" target="_blank">
-    <img width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" alt="Facebook" title="Facebook"/>
-  </a>&nbsp;
-  <a href="https://github.com/mohamedatr1" target="_blank">
-    <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
-  </a>
-</div>
+📫 Drop me a line:
+<p align="left">
+<a href="mailto:crisxr40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-atr-4239563a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/bc01hr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/CrisXrrr"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://web.facebook.com/mohamed.atr.547446"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://github.com/mohamedatr1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
