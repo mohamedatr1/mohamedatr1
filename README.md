@@ -17,7 +17,10 @@
 
 ---
 
-<img align="right" alt="Hacking" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<img align="right" width="800" height="600" alt="transparent_gitgif" src="https://github.com/user-attachments/assets/11a45108-ce13-4afb-8e1d-a61e9953eada" />
+
+
 
 ### 🧠 About Me
 
