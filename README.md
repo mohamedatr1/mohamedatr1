@@ -74,12 +74,9 @@
 ![Gobuster](https://img.shields.io/badge/Gobuster-007ACC?style=for-the-badge&logo=go&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_The_Ripper-FF0000?style=for-the-badge&logo=linux&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=linux&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 
 <!-- OS & Systems -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![eBPF](https://img.shields.io/badge/eBPF-F5A800?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- Dev Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
