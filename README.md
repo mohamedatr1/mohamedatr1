@@ -2,7 +2,7 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:000000&height=220&section=header&text=Attari%20Mohamed%20Elbachir&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Python%20Dev&descAlignY=60&descColor=7b2cbf&stroke=3c096c&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:000000&height=220&section=header&text=Attari%20Mohamed%20Elbachir&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Python%20Developer&descAlignY=60&descColor=7b2cbf&stroke=3c096c&strokeWidth=1" width="100%"/>
 </div>
 
 <!-- Stats Bar -->
