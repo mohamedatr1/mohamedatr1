@@ -98,7 +98,8 @@
 | 🧠 **[ReportMind](https://github.com/mohamedatr1/ReportMind)** | Autonomous AI research agent with LLM-powered insights | `LangChain` `LLMs` `Python` |
 | 💳 **[ai-payments-bot](https://github.com/mohamedatr1/ai-payments-bot)** | AI automation connecting Airtable with n8n | `LangGraph` `FastAPI` `Python` |
 | 🔐 **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core)** | Central hub for red teaming tools & automation | `Python` `Bash` `Security` |
-| 📖 **[langchain](https://github.com/mohamedatr1/langchain)** | AI biography analyzer with advanced NLP | `LangChain` `NLP` `Python` |
+| 📖 **[langchain](https://github.com/mohamedatr1/langchain)** | LangChain script extracting structured textual data.
+ | `LangChain` `LangSmith` `Python` |
 
 </div>
 
