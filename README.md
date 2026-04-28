@@ -95,6 +95,7 @@
 |--------|-------------|------|
 | 🕵️ **[PhantomForge (Private)](https://github.com/mohamedatr1)** | Autonomous red team AI platform with DQN-powered attack optimization | `Python` `AI Agents` `RL` |
 | 👻 **[GhostThread EDR (Private)](https://github.com/mohamedatr1)** | Kernel-level EDR with Rust + eBPF, <2% CPU overhead | `Rust` `eBPF` `Blockchain` |
+| 🔍 **[SecVuln](https://github.com/mohamedatr1/SecVuln)** |  fully autonomous AI-powered penetration testing pipeline | `LangChain` `LangGraph` `Python` |
 | 🧠 **[ReportMind](https://github.com/mohamedatr1/ReportMind)** | Autonomous AI research agent with LLM-powered insights | `LangChain` `LLMs` `Python` |
 | 💳 **[ai-payments-bot](https://github.com/mohamedatr1/ai-payments-bot)** | AI automation connecting Airtable with n8n | `LangGraph` `FastAPI` `Python` |
 | 🔐 **[Cyber-Core](https://github.com/mohamedatr1/Cyber-Core)** | Central hub for red teaming tools & automation | `Python` `Bash` `Security` |
