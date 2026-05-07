@@ -108,11 +108,6 @@
 
 ## 📜 Certificates & Achievements
 
-<details>
-<summary>🏅 View Certificates (3)</summary>
-
-<br>
-
 | Badge | Course | Platform | Date |
 |-------|--------|----------|------|
 | ![HF](https://img.shields.io/badge/Fundamentals%20of%20Agents-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | Unit 1: Foundations of Agents | 🤗 Hugging Face | May 2026 |
@@ -120,11 +115,9 @@
 | ![Kaggle](https://img.shields.io/badge/Intro%20to%20ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white) | Intro to Machine Learning | 📊 Kaggle | Apr 2026 |
 
 <details>
-<summary>🖼️ Certificate Images</summary>
+<summary>🖼️ View Certificate Images</summary>
 <br>
 <img src="https://github.com/user-attachments/assets/b66c3dfe-068c-4145-a0bd-0fdf433d2796" width="400"/>
 <img src="https://github.com/user-attachments/assets/d7579756-4f57-46c1-ae80-ad120b72aa6c" width="400"/>
 <img src="https://github.com/user-attachments/assets/530dfeca-e0a8-4b6b-af74-abc29faec920" width="400"/>
-</details>
-
 </details>
