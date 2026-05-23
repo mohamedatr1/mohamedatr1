@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedatr1&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Stars](https://img.shields.io/github/stars/mohamedatr1?style=for-the-badge&color=f0c040&label=STARS&logo=github)
 ![GitHub Followers](https://img.shields.io/github/followers/mohamedatr1?style=for-the-badge&color=00ff88&label=FOLLOWERS&logo=github)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atr-4239563a7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohamed-atr-4239563a7/](https://www.linkedin.com/in/mohamed-atr-4239563a7/))
 
 </div>
 
