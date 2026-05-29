@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=800080# &center=true&vCenter=true&multiline=false&width=700&lines=AI+Agentic+Engineer+%7C+Automation+Architect;Security+Researcher+%7C+OSCP+Candidate;LangGraph+%7C+LangChain+%7C+MCP+Protocol;%22Manual+work+is+a+bug.+Agents+are+the+patch.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=800080 &center=true&vCenter=true&multiline=false&width=700&lines=AI+Agentic+Engineer+%7C+Automation+Architect;Security+Researcher+%7C+OSCP+Candidate;LangGraph+%7C+LangChain+%7C+MCP+Protocol;%22Manual+work+is+a+bug.+Agents+are+the+patch.%22)](https://git.io/typing-svg)
 
 <br/>
 
