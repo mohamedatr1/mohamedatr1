@@ -8,10 +8,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/232357278?v=4" width="140" style="border-radius: 50%; border: 2px solid #00d4ff; padding: 3px;" alt="Profile Picture"/>
-</div>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=mohamedatr1&color=ff003c&style=for-the-badge&label=VISITORS)](https://github.com/mohamedatr1)
 [![GitHub Stars](https://img.shields.io/github/stars/mohamedatr1?style=for-the-badge&color=00ff88&logo=github&label=STARS)](https://github.com/mohamedatr1)
 [![GitHub Followers](https://img.shields.io/github/followers/mohamedatr1?style=for-the-badge&color=00d4ff&logo=github&label=FOLLOWERS)](https://github.com/mohamedatr1)
