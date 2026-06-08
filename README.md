@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=false&width=700&lines=AI+Agentic+Engineer+%7C+Automation+Architect;Security+Researcher+%7C+OSCP+Candidate;LangGraph+%7C+LangChain+%7C+MCP+Protocol;%22Manual+work+is+a+bug.+Agents+are+the+patch.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=false&width=700&lines=AI+Agentic+Engineer;Automation+Architect;Offensive+Security+Researcher;Vibe+Coding+Practitioner)](https://github.com/mohamedatr1)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ```python
 #!/usr/bin/env python3
-# ─── IDENTITY CARD ────────────────────────────────────────────────────────────
+# ─── IDENTITY CARD ────────────────────────────────────────────────────────
 
 class AttariMohamedElbachir:
 
@@ -128,10 +128,10 @@ class AttariMohamedElbachir:
 ## `> ls -la /projects`
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────────────────┐
 │  NAME               STATUS      STACK                                       │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  PhantomForge       🔒 PRIVATE  Python · RL · LangGraph                    │
+├────────────────────────────────────────────────────────────────────────────┤
+│  AutoMB             ✅ PUBLIC   Python · LangGraph · Automation             │
 │  AtxAgent           ✅ PUBLIC   Python · LangChain · Groq                  │
 │  CogniRAG           ✅ PUBLIC   LangChain · ChromaDB · API                 │
 │  SecVuln            ✅ PUBLIC   LangGraph · LLMs · Python                  │
@@ -139,14 +139,14 @@ class AttariMohamedElbachir:
 │  ai-payments-bot    ✅ PUBLIC   n8n · Groq · Airtable                      │
 │  Cyber-Core         ✅ PUBLIC   Python · Bash · Security                   │
 │  langchain          ✅ PUBLIC   LangChain · LangSmith                      │
-└─────────────────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 🕵️ [PhantomForge](https://github.com/mohamedatr1) — `PRIVATE`
-> Autonomous red team AI platform powered by Deep Q-Networks for attack path optimization. Self-correcting agent loops that adapt to target defenses in real-time. The most advanced project in the arsenal — kept private.
+### 🤖 [AutoMB](https://github.com/mohamedatr1/AutoMB)
+> AI-powered automation framework for intelligent task orchestration. Seamless multi-agent coordination with LangGraph + production-ready pipeline management. Build, deploy, and scale autonomous workflows.
 
 ### ⚡ [AtxAgent](https://github.com/mohamedatr1/AtxAgent)
-> Production-grade multi-tool AI agent — 18 tools, 3 LLM providers, multilingual OCR, Whisper transcription, and translation. Runs fully offline via Ollama or cloud-powered with Groq/NVIDIA. Zero compromise on reliability.
+> Production-grade multi-tool AI agent — 18 tools, 3 LLM providers, multilingual OCR, Whisper transcription, and translation. Runs fully offline via Ollama or cloud-powered with Groq/NVIDIA. Zero friction, maximum capability.
 
 ### 🧠 [CogniRAG](https://github.com/mohamedatr1/CogniRAG)
 > Session-isolated document intelligence pipeline. Feed it PDFs & URLs — it retrieves answers with MMR retrieval + live token streaming. Built for production, not prototypes.
@@ -168,18 +168,18 @@ class AttariMohamedElbachir:
 ## `> metrics --report engineering`
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                   PERFORMANCE METRICS // 2026                   │
-├────────────────────────────┬────────────────────────────────────┤
-│  METRIC                    │  RESULT                            │
-├────────────────────────────┼────────────────────────────────────┤
-│  🚀 Dev Velocity            │  3× faster — Vibe Coding stack     │
-│  🤖 Agent Networks          │  4 systems · 0 manual loops        │
-│  🔌 APIs Integrated         │  20+ RESTful endpoints             │
-│  ⚙️  Pipelines Built        │  3 core automation layers          │
-│  ⏱️  Sprint Delivery        │  48-hour production cycles         │
-│  🛡️  Security Systems       │  AI-first offensive architecture   │
-└────────────────────────────┴────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│                   PERFORMANCE METRICS // 2026                              │
+├────────────────────────────┬────────────────────────────────────────────────┤
+│  METRIC                    │  RESULT                                        │
+├────────────────────────────┼────────────────────────────────────────────────┤
+│  🚀 Dev Velocity            │  3× faster — Vibe Coding stack                │
+│  🤖 Agent Networks          │  4 systems · 0 manual loops                   │
+│  🔌 APIs Integrated         │  20+ RESTful endpoints                        │
+│  ⚙️  Pipelines Built        │  3 core automation layers                     │
+│  ⏱️  Sprint Delivery        │  48-hour production cycles                    │
+│  🛡️  Security Systems       │  AI-first offensive architecture              │
+└────────────────────────────┴────────────────────────────────────────────────┘
 ```
 
 ---
@@ -188,8 +188,8 @@ class AttariMohamedElbachir:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mohamedatr1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff003c&icon_color=00ff88&text_color=c9d1d9"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatr1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mohamedatr1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=00ff88"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatr1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=00ff88"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedatr1&theme=tokyonight&hide_border=true&background=0d1117&ring=ff003c&fire=ff6600&currStreakLabel=00ff88"/>
 
@@ -247,17 +247,17 @@ class AttariMohamedElbachir:
 ## `> crontab -l # active missions`
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                        CURRENT FOCUS // 2026                                │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│   ██ [01]  Advancing toward OSCP certification                              │
-│   ██ [02]  Building production multi-agent MCP systems                      │
-│   ██ [03]  Pushing Vibe Coding → AI-native engineering                      │
-│   ██ [04]  Expanding autonomous AI automation infrastructure                │
-│   ██ [05]  PhantomForge — red team AI evolution                             │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│                        CURRENT FOCUS // 2026                               │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│   ██ [01]  Advancing toward OSCP certification                             │
+│   ██ [02]  Building production multi-agent MCP systems                     │
+│   ██ [03]  Pushing Vibe Coding → AI-native engineering                    │
+│   ██ [04]  Expanding autonomous AI automation infrastructure               │
+│   ██ [05]  AutoMB — next-gen automation framework                          │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
