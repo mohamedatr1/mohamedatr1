@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=false&width=700&lines=AI+Assisted+Programmer)](https://github.com/mohamedatr1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=false&width=700&lines=AI+Agentic+[...]
 
 <br/>
 
@@ -43,7 +43,7 @@ class AttariMohamedElbachir:
     ]
 
     MINDSET   = "Ship fast. Automate everything. Leave zero in the loop."
-    VELOCITY  = "Production-ready in 48h sprints using AI Assisted Programming."
+    VELOCITY  = "Production-ready in 48h sprints using AI Assisted Programmer."
     STATUS    = "🟢 ONLINE — Building the future of autonomous AI"
 ```
 
@@ -98,7 +98,7 @@ class AttariMohamedElbachir:
 </details>
 
 <details open>
-<summary><b>🛠️ Dev Tools & AI Assisted Programming</b></summary>
+<summary><b>🛠️ Dev Tools & Vibe Coding</b></summary>
 <br/>
 
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -173,7 +173,7 @@ class AttariMohamedElbachir:
 ├────────────────────────────┬───────────────────────────────────[...]
 │  METRIC                    │  RESULT                                        │
 ├────────────────────────────┼───────────────────────────────────[...]
-│  🚀 Dev Velocity            │  3× faster — AI Assisted Programming           │
+│  🚀 Dev Velocity            │  3× faster — Vibe Coding stack                │
 │  🤖 Agent Networks          │  4 systems · 0 manual loops                   │
 │  🔌 APIs Integrated         │  20+ RESTful endpoints                        │
 │  ⚙️  Pipelines Built        │  3 core automation layers                     │
@@ -253,7 +253,7 @@ class AttariMohamedElbachir:
 │                                                                            │
 │   ██ [01]  Advancing toward OSCP certification                             │
 │   ██ [02]  Building production multi-agent MCP systems                     │
-│   ██ [03]  Pushing AI Assisted Programming → AI-native engineering         │
+│   ██ [03]  Pushing Vibe Coding → AI-native engineering                    │
 │   ██ [04]  Expanding autonomous AI automation infrastructure               │
 │   ██ [05]  AutoMB — next-gen automation framework                          │
 │                                                                            │
