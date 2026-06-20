@@ -4,9 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=false&width=700&lines=AI+Agentic+Systems+Engineer)](https://github.com/mohamedatr1)
-
-**AI automation engineer and AI assisted programming and offensive security specialist**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&multiline=false&width=700&lines=AI+Agentic+Systems+Engineer;AI+automation+engineer;AI+assisted+programming;offensive+security+specialist)](https://github.com/mohamedatr1)
 
 <br/>
 
