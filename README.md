@@ -250,13 +250,11 @@ class AttariMohamedElbachir:
 ┌────────────────────────────────────────────────────────────────[...]
 │                        CURRENT FOCUS // 2026                              │
 ├────────────────────────────────────────────────────────────────[...]
-│                                                                            │
-│   ██ [01]  Advancing toward OSCP certification                            │
-│   ██ [02]  Building production multi-agent MCP systems                    │
-│   ██ [03]  Mastering AI Assisted Programming → AI-native engineering      │
-│   ██ [04]  Expanding autonomous AI automation infrastructure              │
-│   ██ [05]  AutoMB — next-gen automation framework                         │
-│                                                                            │
+│    
+│   ██ [01]  Building production multi-agent MCP systems                    │
+│   ██ [02]  Mastering AI Assisted Programming → AI-native engineering      │
+│   ██ [03]  Expanding autonomous AI automation infrastructure              │
+│                                                      │
 └────────────────────────────────────────────────────────────────[...]
 ```
 
