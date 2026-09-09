@@ -182,20 +182,7 @@ class AttariMohamedElbachir:
 
 ---
 
-## `> stat --github`
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mohamedatr1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1[...]
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatr1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4[...]
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedatr1&theme=tokyonight&hide_border=true&background=0d1117&ring=ff003c&fire=ff6600&currStreakLabel=00ff88"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedatr1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=ff003c&point=00ff88" width="95%"/>
-
-</div>
-
----
 
 ## `> cat /certs/credentials.json`
 
