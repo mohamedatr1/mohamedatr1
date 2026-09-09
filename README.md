@@ -236,7 +236,7 @@ class AttariMohamedElbachir:
 │                        CURRENT FOCUS // 2026                              │
 ├────────────────────────────────────────────────────────────────[...]
 │    
-│   ██ [01]  Building production multi-agent MCP systems                    │
+│   ██ [01]  Building production multi-agent systems                    │
 │   ██ [02]  Mastering AI Assisted Programming → AI-native engineering      │
 │   ██ [03]  Expanding autonomous AI automation infrastructure              │
 │                                                      │
